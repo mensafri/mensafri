@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/men_safri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="men_safri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syafrie abdunnasir jawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syafrie abdunnasir jawad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/syafrie-abdunnasir-jawad-45113a120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syafrie abdunnasir jawad" height="30" width="40" /></a>
 <a href="https://instagram.com/mensafri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mensafri" height="30" width="40" /></a>
 <a href="https://medium.com/@safrijawad1245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@safrijawad1245" height="30" width="40" /></a>
 </p>

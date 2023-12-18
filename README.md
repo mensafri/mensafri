@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/men_safri" target="blank"><img src="https://img.shields.io/twitter/follow/men_safri?logo=twitter&style=for-the-badge" alt="men_safri" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, NextJS 13**
+- 🌱 I’m currently learning **NextJS 13**
 
 - 👯 I’m looking to collaborate on **exciting coding projects! Let's create something amazing together.**
 
 - 🤝 I’m looking for help with **expanding my knowledge in various tech stacks. Your expertise is highly appreciated!**
 
-- 💬 Ask me about **ReactJs, Laravel**
+- 💬 Ask me about **ReactJs, React Native, Laravel**
 
 - 📫 How to reach me **safrijawad1245@gmail.com**
 

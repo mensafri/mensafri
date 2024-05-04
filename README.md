@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/men_safri" target="blank"><img src="https://img.shields.io/twitter/follow/men_safri?logo=twitter&style=for-the-badge" alt="men_safri" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, NextJS 13**
+- 🌱 I’m currently learning **React Native, NextJS 14 And Microservices**
 
 - 👯 I’m looking to collaborate on **exciting coding projects! Let's create something amazing together.**
 

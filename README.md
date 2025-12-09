@@ -8,7 +8,6 @@ I'm a passionate **Full Stack Developer** from **Semarang, Indonesia**. I love b
 - 🌱 I’m currently learning **Advanced TypeScript, .NET Ecosystem & System Architecture**
 - 🌍 Check out my portfolio at **[mensafri.vercel.app](https://mensafri.vercel.app)**
 - 💬 Ask me about **JavaScript, C#, and Database Optimization**
-- ⚡ Fun fact: **I'm a Niceguy** (as stated in my bio 😄)
 
 ---
 

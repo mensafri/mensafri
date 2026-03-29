@@ -7,7 +7,7 @@ I'm a **Full-Stack Engineer** with **3+ years of experience** building and shipp
 I work primarily in the **JavaScript ecosystem**, with strong experience in **React, Next.js, React Native, and Vue.js**, and additional hands-on experience in **Laravel, Node.js, Go, .NET, Flutter, Docker, and Azure**. I enjoy building products end-to-end — from UI implementation and API development to database design, deployment, and production support.
 
 - 🔭 I’m currently working on **web & mobile product development**
-- 🌱 I’m currently learning **advanced TypeScript, .NET ecosystem, and system architecture**
+- 🌱 I’m currently learning **Rust, .NET ecosystem, and system architecture**
 - 🌍 Portfolio: **[mensafri.vercel.app](https://mensafri.vercel.app)**
 - 💬 Ask me about **full-stack development, React ecosystem, Laravel, Go, .NET, and databases**
 

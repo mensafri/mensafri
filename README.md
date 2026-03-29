@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=false&vCenter=false&width=520&lines=Full-Stack+Engineer;Web+%26+Mobile+Developer;Building+Scalable+Digital+Products;Based+in+Semarang,+Indonesia)](https://git.io/typing-svg)
 
-I'm a **Full-Stack Engineer** from **Semarang, Indonesia** with **3+ years of experience** building and shipping web and mobile applications across frontend, backend, and deployment workflows.
+I'm a **Full-Stack Engineer** with **3+ years of experience** building and shipping web and mobile applications across frontend, backend, and deployment workflows.
 
 I work primarily in the **JavaScript ecosystem**, with strong experience in **React, Next.js, React Native, and Vue.js**, and additional hands-on experience in **Laravel, Node.js, Go, .NET, Flutter, Docker, and Azure**. I enjoy building products end-to-end — from UI implementation and API development to database design, deployment, and production support.
 
